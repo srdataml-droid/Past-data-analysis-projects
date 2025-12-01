@@ -1,5 +1,6 @@
 #December-data-analysis-projects
 day1
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6c9940d-fc71-4c8f-bfd7-badaa56196be" />
 
 1️⃣ Overall Summary
 
@@ -70,6 +71,10 @@ If we normalize by video count, we can find peak upload hours by category — us
 Comedy & Food = high-volume and high-view categories → continue investing here.
 
 Education & Tech = lower views but high engagement → focus on improving visibility while keeping quality.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07b83141-1a06-4d15-b564-2ca5b0acbd53" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/980452f8-b02e-4a83-af68-3ab7c99ceb7a" />
+
 
 Lifestyle & Travel = potential for growth → experiment with trends, collaborations, or shorter, punchy content.
 
