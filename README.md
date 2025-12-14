@@ -82,3 +82,10 @@ Lifestyle & Travel = potential for growth → experiment with trends, collaborat
 Top-performing videos tend to cluster in recent uploads → fresh content gets noticed faster.
 
 Short but high-value videos still generate engagement → don’t rely solely on video length.
+
+#Day 2
+Today i finished excel from Alex the analyst ill do some project while touching python
+what i did visualize
+<img width="933" height="654" alt="image" src="https://github.com/user-attachments/assets/56e93b88-a064-45b7-ac57-658b770022d9" />
+
+
