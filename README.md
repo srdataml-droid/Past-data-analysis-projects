@@ -105,7 +105,8 @@ From Kaggle
 >10. USA having the highest failure rate
 
 
-<img width="1013" height="649" alt="image" src="https://github.com/user-attachments/assets/3fac7c55-c9a8-4025-b58c-30fbccc4d41b" />
+<img width="949" height="613" alt="image" src="https://github.com/user-attachments/assets/89bf3f20-e654-4f02-9aaa-1e751996d014" />
+
 
 
 
