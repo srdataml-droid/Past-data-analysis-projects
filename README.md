@@ -89,7 +89,7 @@ what i did visualize
 <img width="933" height="654" alt="image" src="https://github.com/user-attachments/assets/56e93b88-a064-45b7-ac57-658b770022d9" />
 
 #Day 3 
-Today i took up this data set ***[All Space Missions from 1957]***{https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957} From Kaggle
+Today i took up this data set ***[All Space Missions from 1957]***(https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957)From Kaggle
 #**INSIGHTS** 
 >1. there were countries `25`
 >2. the year ranged from `1957 - 2020` which i splitted into 4 parts ```1950-1970 , 1971-1985 , 1986-2010 , 2011-2020```
@@ -101,6 +101,8 @@ Today i took up this data set ***[All Space Missions from 1957]***{https://www.k
 >8.  btw 1950 - 1970 was the highest failure rate with 1986 - 2010 having the highest success
 >9.  Russian having the highest success rate
 >10. USA having the highest failure rate
+
+
 <img width="1013" height="649" alt="image" src="https://github.com/user-attachments/assets/3fac7c55-c9a8-4025-b58c-30fbccc4d41b" />
 
 
