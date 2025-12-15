@@ -88,4 +88,20 @@ Today i finished excel from Alex the analyst ill do some project while touching 
 what i did visualize
 <img width="933" height="654" alt="image" src="https://github.com/user-attachments/assets/56e93b88-a064-45b7-ac57-658b770022d9" />
 
+#Day 3 
+Today i took up this data set ***[All Space Missions from 1957]***{https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957} From Kaggle
+#**INSIGHTS** 
+>1. there were countries `25`
+>2. the year ranged from `1957 - 2020` which i splitted into 4 parts ```1950-1970 , 1971-1985 , 1986-2010 , 2011-2020```
+>3. Changed the date from datum to date splitted the date by removing the time and year using **Text to column** and **Right**
+>4. Did the same for the location and splited the country as for the ones whose country couldnt be found because excel kicked me out amd saved progress with some resetting i deleted those
+>5. i used trim for the columns wit spaces thats location after i did the splitting , used **IF** statement to change *Florida* and *Carlifornia* to **USA**
+>6. There are `777` Active Rocket and `3524` Inactive
+>7. Russian has the highest Rocket launch, USA is Second Highest,with Kazakhstan which i jst realized is a country being 3rd .
+>8.  btw 1950 - 1970 was the highest failure rate with 1986 - 2010 having the highest success
+>9.  Russian having the highest success rate
+>10. USA having the highest failure rate
+<img width="1013" height="649" alt="image" src="https://github.com/user-attachments/assets/3fac7c55-c9a8-4025-b58c-30fbccc4d41b" />
+
+
 
